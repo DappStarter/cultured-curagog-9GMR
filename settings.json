@@ -1,0 +1,17 @@
+{
+    "name": "CROSS CRYPTO",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "Cross Crypto",
+        "/category/asset_value_tracking/core-token/symbol": "CC ",
+        "/category/asset_value_tracking/core-token/decimals": "18",
+        "/category/asset_value_tracking/core-token/supply": "30000000000",
+        "/category/collection/core-entity": true
+    }
+}
